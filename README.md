@@ -36,7 +36,7 @@ Practical Certified Ethical Hacker labs with detailed methodology, findings, and
 
 ## Quick Links
 
-- [Lab 1: Information Gathering&Subdomain Enumeration](./Lab2_Subdomain_Enumeration.pdf)]
+- [Lab 1: Information Gathering&Subdomain Enumeration](./Lab2_Subdomain_Enumeration.pdf)
 
 ## Disclaimer
 
