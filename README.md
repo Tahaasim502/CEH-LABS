@@ -16,14 +16,6 @@ Practical Certified Ethical Hacker labs with detailed methodology, findings, and
 - **Lab 1:** Telenor infrastructure mapping, Azure Front Door CDN identification
 - **Lab 2:** 810 subdomains discovered via passive methods, nameserver enumeration
 
-## Tools Used
-
-- `dig` - DNS queries
-- `nslookup` - DNS lookup
-- `whois` - Domain info
-- `curl` - Data transfer
-- Certificate Transparency logs
-- Reverse IP lookup tools
 
 ## Topics Covered
 
@@ -34,9 +26,6 @@ Practical Certified Ethical Hacker labs with detailed methodology, findings, and
 - Subdomain discovery
 - Network mapping
 
-## Quick Links
-
-- [Lab 1: Information Gathering&Subdomain Enumeration](./Lab2_Subdomain_Enumeration.pdf)
 
 ## Disclaimer
 
